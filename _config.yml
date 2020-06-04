@@ -1,8 +1,8 @@
 # Site settings
-title: marine ecology
+title: Marine Ecology
 email: perlal6802@hstat.org
 url: https://perlal6802.github.io/marine-ecology/
-description: "Welcome!!! On this website you're going to learn how human interactions affects the environment."
+description: "Welcome!!! On this website you're going to learn how human interactions affects the environment with us even knowing."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Marine Ecology
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
